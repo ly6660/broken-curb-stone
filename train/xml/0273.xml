@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>K19+216.jpg</filename>
+	<path>D:\code\data\FX_data\9.8\zzzzzzz\1\K19+216.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2650</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1904</xmin>
+			<ymin>227</ymin>
+			<xmax>2153</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

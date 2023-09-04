@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>K30+328.jpg</filename>
+	<path>D:\code\data\FX_data\9.12\zzzzzzz\1\K30+328.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2650</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1971</xmin>
+			<ymin>383</ymin>
+			<xmax>2324</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

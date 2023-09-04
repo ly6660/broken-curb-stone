@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>K7+064.jpg</filename>
+	<path>D:\code\data\FX_data\9.9\zzzzzzz\2\K7+064.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2650</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damage</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2262</xmin>
+			<ymin>357</ymin>
+			<xmax>2650</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

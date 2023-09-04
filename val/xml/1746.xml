@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>0218.jpg</filename>
+	<path>D:\code\data\all\1\0218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2650</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>697</xmin>
+			<ymin>518</ymin>
+			<xmax>1010</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>

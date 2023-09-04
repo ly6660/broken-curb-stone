@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>0226.jpg</filename>
+	<path>E:\code\data\FX_data\sample\old\img\0226.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2650</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>934</xmin>
+			<ymin>197</ymin>
+			<xmax>1055</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

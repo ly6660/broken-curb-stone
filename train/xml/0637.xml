@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>000+0776_fli.jpg</filename>
+	<path>E:\code\data\FX_data\sample\all\222\img\000+0776_fli.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2650</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damage</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>95</ymin>
+			<xmax>343</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

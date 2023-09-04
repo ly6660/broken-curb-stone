@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_1</folder>
+	<filename>0255.jpg</filename>
+	<path>D:\code\data\FX_data\new8.26-8.30\img_1\0255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2650</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2448</xmin>
+			<ymin>78</ymin>
+			<xmax>2580</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

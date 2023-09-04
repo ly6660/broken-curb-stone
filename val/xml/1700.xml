@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>000+0006_fli.jpg</filename>
+	<path>E:\code\data\TEXT\image\000+0006_fli.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2650</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>818</xmin>
+			<ymin>531</ymin>
+			<xmax>1031</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+</annotation>

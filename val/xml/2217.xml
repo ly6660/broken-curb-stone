@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>K4+760.jpg</filename>
+	<path>E:\code\data\FX_data\9.21\zzzzzzz\2\K4+760.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2650</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>10</ymin>
+			<xmax>777</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>
